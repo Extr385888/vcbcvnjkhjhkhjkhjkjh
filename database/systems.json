@@ -1,0 +1,23 @@
+{
+  "mute": [
+    {
+      "guild": "790891082853384193",
+      "guild_name": "EmircaNXPSilva kullanıcısının sunucusu",
+      "user": "702463861034319974",
+      "user_name": "EmircanMADEN",
+      "staff": "618388018042241025",
+      "staff_username": "irem",
+      "channel": "790891082853384196",
+      "channel_name": "genel",
+      "reason": "No Reason Given",
+      "time": "INFINITY",
+      "finishtime": "INFINITY"
+    }
+  ],
+  "ban": [],
+  "kufurEngel": [],
+  "autorole": [],
+  "reklamEngel": [],
+  "security": [],
+  "counter": []
+}
